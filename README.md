@@ -304,10 +304,11 @@ $ cd /data/wwwroot/freenom/ && php run
 ### 🍺  信仰
 
 ![南京市民李先生](https://s2.ax1x.com/2020/02/04/1Bm3Ps.jpg "南京市民李先生")
-> 
+> 厉害了我的国 
 > 认真是我们参与这个社会的方式，认真是我们改变这个社会的方式。  ——李志
 
 ### ❤  捐赠 Donate
+
 如果你觉得本项目真的有帮助到你并且想回馈作者，感谢你的捐赠。
 #### PayPal: [https://www.paypal.me/mybsdc](https://www.paypal.me/mybsdc)
 > Every time you spend money, you're casting a vote for the kind of world you want. -- Anna Lappe
