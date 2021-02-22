@@ -19,10 +19,10 @@ on:
     branches:
       - master
   schedule:
-    - cron: 00 02 * * *
+    - cron: 30 14 * * *
 jobs:
   run-it:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-20.04
     name: Run it on action
     steps:
       - name: Checkout master
